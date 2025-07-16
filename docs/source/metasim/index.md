@@ -9,7 +9,7 @@
 get_started/prerequisite
 get_started/installation
 get_started/docker
-get_started/docker for NVIDIA RTX 50 Series GPUs
+get_started/docker_nvidia_rtx50_series_gpus
 get_started/advanced_installation/index
 ```
 
